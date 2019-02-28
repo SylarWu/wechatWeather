@@ -1,0 +1,12 @@
+[ 2018-07-15T13:02:42+08:00 ] 140.207.54.79 /WeChat/Weixin/Index/tokenCheck/?signature=a3abfe2add6c9cca8528e158fde723a6ee93deda&timestamp=1531630962&nonce=1588794272&openid=oVe4c1Hv3ItDh-dcrZQP0HWie0jg&encrypt_type=aes&msg_signature=59f914705afd625c4e799effe7ec27ad8969aca4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Weixin
+
+[ 2018-07-15T13:03:13+08:00 ] 140.207.54.79 /WeChat/Weixin/Index/tokenCheck/?signature=fdeb850a2cf9a211f0b1a02084ac7f7a2590f71f&timestamp=1531630993&nonce=1531615018&openid=oVe4c1Hv3ItDh-dcrZQP0HWie0jg&encrypt_type=aes&msg_signature=9d7a960700cc4fc2d2514b7cb0267c1e15fdb7aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Weixin
+
